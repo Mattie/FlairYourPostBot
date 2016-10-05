@@ -1,0 +1,15 @@
+{
+    "username": "BOTNAME",
+    "password": "BOTPASSWORD",
+    "sleep_time": 30,
+    "time_until_message": 180,
+    "time_until_remove": 1200,
+    "post_grab_limit": 30,
+    "post_memory_limit": 100,
+    "add_flair_subject_line": "You have not tagged your post.",
+    "add_flair_message": "Sorry, but [your recent post]({post_url}) does not have any flair and has been temporarily removed until you fix it.\n\nPlease add flair to your post. If you do not add flair within **{removal_time}**, you will have to resubmit your post. Don't know how to flair your post? Click [here](http://imgur.com/a/m3FI3) to view this helpful guide on how to flair your post. if you are using the mobile version of the site click the hamburger menu in the top right of the screen and switch to the desktop site and then follow the instructions as you would on desktop.",
+    "remove_post_subject_line": "You have not tagged your post within the allotted amount of time.",
+    "remove_post_message": "Sorry, [your recent post]({post_url}) still does not have any flair and was permanently removed. Feel free to resubmit your post and remember to flair it once it is posted.\n\n*Don't know how to flair your post? Click [here](http://imgur.com/a/m3FI3) to view this guide. if you are using the mobile version of the site click the hamburger menu in the top right of the screen and switch to the desktop site and then follow the instructions as you would on desktop.*"
+
+}
+
